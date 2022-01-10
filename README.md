@@ -1,6 +1,7 @@
 # LinksDAO
 Code snipets of a Dune Analytics Dashboard (SQL) 
 
+### Background
 LinksDAO is a ethereum based DAO with the goal of purchasing, renovating, and opening a golf course throughout 2022/23. Queried data is sourced directly from ethereum contract data and secondary (opensea) NFT sales.
 
 
